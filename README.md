@@ -8,7 +8,7 @@ Jamming Detection in IoT Wireless Networks using TinyML - Code and Dataset. This
 ### Each dataset corresponds to the following Jamming type (click on the name for direct access to the RAW files):
 - [Normal Channel](https://raw.githubusercontent.com/AMHD/Jamming-Detection-in-IoT-Wireless-Networks-An-Edge-AI-Based-Approach/main/normal_channel.txt)
 - [Constant Jammer](https://raw.githubusercontent.com/AMHD/Jamming-Detection-in-IoT-Wireless-Networks-An-Edge-AI-Based-Approach/main/constant_jammer.txt)
-- [Random Jammer](https://raw.githubusercontent.com/AMHD/Jamming-Detection-in-IoT-Wireless-Networks-An-Edge-AI-Based-Approach/main/random_jammer.txt)
+- [Periodic Jammer](https://raw.githubusercontent.com/AMHD/Jamming-Detection-in-IoT-Wireless-Networks-An-Edge-AI-Based-Approach/main/periodic_jammer.txt)
 
 Please refer to the [Published] for more information on how the data is collected.
 
